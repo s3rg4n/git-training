@@ -1,5 +1,3 @@
-# git-training
-Hello-world
 
 Bb-world
 surrender at 20
