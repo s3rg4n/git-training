@@ -4,6 +4,3 @@ Hello-world
 Bb-world
 
 Git rules!!
-
-Holiwi
-adasdsadsa
