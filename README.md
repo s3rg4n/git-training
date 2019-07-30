@@ -1,9 +1,2 @@
-# git-training
-Hello-world
-
-Bb-world
-
-Git rules!!
-
-Holiwi
-adasdsadsa
+Pizzarrender
+Surrender at 20
