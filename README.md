@@ -1,4 +1,2 @@
-Surrender at 20
-Git rules!!
-ff
 
+Surrender at 20
